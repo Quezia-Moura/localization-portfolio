@@ -5,7 +5,9 @@
     "overview": "Visão geral",
     "vocabulary": "Meu vocabulário",
     "progress": "Meu progresso",
-    "settings": "Configurações"
+    "settings": "Configurações",
+    "openMenu": "Abrir menu de navegação",
+    "closeMenu": "Fechar menu de navegação"
   },
   "dashboard": {
     "welcome": "Boas-vindas de volta!",

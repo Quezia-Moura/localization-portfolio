@@ -5,7 +5,9 @@
     "overview": "Overview",
     "vocabulary": "My Vocabulary",
     "progress": "My Progress",
-    "settings": "Settings"
+    "settings": "Settings",
+    "openMenu": "Open navigation menu",
+    "closeMenu": "Close navigation menu"
   },
   "dashboard": {
     "welcome": "Welcome back!",
