@@ -1,0 +1,48 @@
+
+{
+  "sidebar": {
+    "menu": "MENU",
+    "overview": "Visão geral",
+    "vocabulary": "Meu vocabulário",
+    "progress": "Meu progresso",
+    "settings": "Configurações"
+  },
+  "dashboard": {
+    "welcome": "Boas-vindas de volta!",
+    "subtitle": "Continue desenvolvendo suas habilidades linguísticas, uma palavra de cada vez.",
+    "today": "SEU ESPAÇO DE APRENDIZAGEM",
+    "wordsLearned": "Palavras coletadas",
+    "learningStreak": "Sequência de estudos",
+    "studyTime": "Tempo de estudo",
+    "recentActivity": "Palavras adicionadas recentemente",
+    "viewAll": "Ver todas",
+    "dailyGoal": "Meta diária de aprendizagem",
+    "goalDescription": "Você está progredindo muito bem!",
+    "goalProgress": "palavras da sua meta diária",
+    "days": "dias",
+    "minutes": "min",
+    "weeklyGrowth": "+12 nesta semana",
+    "keepGoing": "Continue assim!",
+    "todayTotal": "Total de hoje"
+  },
+  "vocabulary": {
+    "serendipity": {
+      "term": "Serendipity",
+      "meaning": "Encontrar algo belo ou valioso por acaso.",
+      "language": "Inglês"
+    },
+    "komorebi": {
+      "term": "Komorebi",
+      "meaning": "Luz do sol que atravessa as folhas das árvores.",
+      "language": "Japonês"
+    },
+    "apricity": {
+      "term": "Apricity",
+      "meaning": "O calor do sol durante o inverno.",
+      "language": "Inglês"
+    }
+  },
+  "language": {
+    "switch": "English"
+  }
+}

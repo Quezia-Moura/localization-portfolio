@@ -1,20 +1,16 @@
+
 import i18n from 'i18next'
 import { initReactI18next } from 'react-i18next'
 
+import en from './locales/en/translation.json'
+import ptBR from './locales/pt-BR/translation.json'
+
 const resources = {
   en: {
-    translation: {
-      welcome: 'Welcome to your language learning space!',
-      description: 'Your learning journey starts here.',
-      changeLanguage: 'Português',
-    },
+    translation: en,
   },
   'pt-BR': {
-    translation: {
-      welcome: 'Bem-vindo ao seu espaço de aprendizagem de idiomas!',
-      description: 'Sua jornada de aprendizagem começa aqui.',
-      changeLanguage: 'English',
-    },
+    translation: ptBR,
   },
 }
 

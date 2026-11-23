@@ -1,0 +1,48 @@
+
+{
+  "sidebar": {
+    "menu": "MENU",
+    "overview": "Overview",
+    "vocabulary": "My Vocabulary",
+    "progress": "My Progress",
+    "settings": "Settings"
+  },
+  "dashboard": {
+    "welcome": "Welcome back!",
+    "subtitle": "Keep building your language skills, one word at a time.",
+    "today": "YOUR LEARNING SPACE",
+    "wordsLearned": "Words collected",
+    "learningStreak": "Learning streak",
+    "studyTime": "Study time",
+    "recentActivity": "Recently collected words",
+    "viewAll": "View all",
+    "dailyGoal": "Daily learning goal",
+    "goalDescription": "You're making great progress!",
+    "goalProgress": "words out of your daily goal",
+    "days": "days",
+    "minutes": "min",
+    "weeklyGrowth": "+12 this week",
+    "keepGoing": "Keep it going!",
+    "todayTotal": "Today's total"
+  },
+  "vocabulary": {
+    "serendipity": {
+      "term": "Serendipity",
+      "meaning": "Finding something beautiful or valuable by chance.",
+      "language": "English"
+    },
+    "komorebi": {
+      "term": "Komorebi",
+      "meaning": "Sunlight filtering through the leaves of trees.",
+      "language": "Japanese"
+    },
+    "apricity": {
+      "term": "Apricity",
+      "meaning": "The warmth of the sun in winter.",
+      "language": "English"
+    }
+  },
+  "language": {
+    "switch": "Português"
+  }
+}
